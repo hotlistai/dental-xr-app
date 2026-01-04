@@ -1,5 +1,9 @@
 # Data files
 data/
+datasets/
+
+# Cloned research repos (external dependencies)
+repos/
 
 # Python
 __pycache__/
